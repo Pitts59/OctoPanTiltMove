@@ -2,6 +2,9 @@
 
 PanTiltMove adds controls to the the OctoPrint Contol tab to control a Raspberry Pi Pan-Tilt hat.
 
+Work in progress - updating code to work with Python 3 only version of OctoPrint and to use Github for installation.
+It is not currently installing using the plug-in manager.
+
 ## Setup
 
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
