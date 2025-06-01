@@ -1,6 +1,6 @@
 # OctoPrint-Pantiltmove
 
-**TODO:** Describe what your plugin does.
+PanTiltMove adds controls to the the OctoPrint Contol tab to control a Raspberry Pi Pan-Tilt hat.
 
 ## Setup
 
