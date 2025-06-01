@@ -7,7 +7,7 @@ PanTiltMove adds controls to the the OctoPrint Contol tab to control a Raspberry
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/PP59/OctoPanTiltMove/archive/master.zip
+    https://github.com/Pitts59/OctoPanTiltMove/blob/main/PanTiltMove.zip
 
 **TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
 the plugin manager.
