@@ -1,0 +1,41 @@
+<h4>Pan-Tilt Move Settings<div class="label label-info pull-right"></div></h4>
+
+<form class="form" id="settings_plugin_PanTiltMove_form">
+	
+	<div class="control-group">
+		<label class="control-label">{{ _('Pan angle (-90 to +90 degrees) ') }}</label>
+		<div class="controls">
+			<input type="number" class="input-mini" data-bind="value: settings.plugins.PanTiltMove.anglePan">
+		</div>
+	</div>
+	
+	<div class="control-group">
+		<label class="control-label">{{ _('Tilt angle (-90 to +90 degrees) ') }}</label>
+		<div class="controls">
+			<input type="number" class="input-mini" data-bind="value: settings.plugins.PanTiltMove.angleTilt">
+		</div>
+	</div>
+	
+	<div class="control-group">
+		<label class="control-label">{{ _('Angle step (1 to +10 degrees) ') }}</label>
+		<div class="controls">
+			<input type="number" class="input-mini" data-bind="value: settings.plugins.PanTiltMove.angleStep">
+		</div>
+	</div>
+	
+	<div class="control-group">
+		<label class="control-label">{{ _('Maximum  ± Pan Angle (10 to 90 degrees) ') }}</label>
+		<div class="controls">
+			<input type="number" class="input-mini" data-bind="value: settings.plugins.PanTiltMove.anglePanMax">
+		</div>
+	</div>
+	
+	<div class="control-group">
+		<label class="control-label">{{ _('Maximum  ± Tilt Angle (10 to 90 degrees) ') }}</label>
+		<div class="controls">
+			<input type="number" class="input-mini" data-bind="value: settings.plugins.PanTiltMove.angleTiltMax">
+		</div>
+		
+	</div>
+	
+</form>

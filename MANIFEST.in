@@ -1,0 +1,4 @@
+include README.md
+recursive-include PanTiltMove/templates *
+recursive-include PanTiltMove/translations *
+recursive-include PanTiltMove/static *
